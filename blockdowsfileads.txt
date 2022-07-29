@@ -27,3 +27,4 @@ organvn.xyz##p
 organvn.xyz##.col-sm-2
 organvn.xyz##.col-sm-4
 organvn.xyz##h4
+dowsfile.com##.mb-2.mr-1.w-24.btn-elevated-rounded-secondary.btn
