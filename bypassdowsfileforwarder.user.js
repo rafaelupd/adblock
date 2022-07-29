@@ -4,6 +4,7 @@
 // @description  Just an adaptation of bloggerpemula's Bypass All Shortlinks script.
 // @match        *://*.organvn.xyz/*
 // @updateURL    https://raw.githubusercontent.com/rafaelupd/adblock/main/bypassdowsfileforwarder.user.js?token=GHSAT0AAAAAABWJC232JT7JAWQX6U44SN54YXEKVKQ
+// @downloadURL  https://raw.githubusercontent.com/rafaelupd/adblock/main/bypassdowsfileforwarder.user.js?token=GHSAT0AAAAAABWJC232JT7JAWQX6U44SN54YXEKVKQ
 // @grant        none
 // ==/UserScript==
 
