@@ -2,7 +2,7 @@
 ! Title: Block ADs Dowsfile
 ! Description: Custom filter to block ads in dowsfile.com redirector (organvn.xyz)
 ! Last modified: 29 Jul 2022
-
+!Teste
 ! Blocking ads in dowsfile.com redirector (organvn.xyz)
 ||adskeeper.com^
 ||link1z.com^
