@@ -3,6 +3,7 @@
 // @version      0.1
 // @description  Just an adaptation of bloggerpemula's Bypass All Shortlinks script.
 // @match        *://*.organvn.xyz/*
+// @updateURL https://raw.githubusercontent.com/rafaelupd/adblock/main/bypassdowsfileforwarder.js
 // @grant        none
 // ==/UserScript==
 
